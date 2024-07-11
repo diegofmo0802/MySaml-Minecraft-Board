@@ -1,0 +1,10 @@
+
+delay: 40
+enable: true
+tittle: '&c| &e- &b[My&dSaml] &e-  &c|'
+content:
+- '&bPlayer: &6%player_name%'
+- '&bPing: &6%player_ping%'
+- '&bWorld: &6%player_world%'
+- ''
+- '&c| www.server.com |'
