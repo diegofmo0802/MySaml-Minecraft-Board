@@ -15,8 +15,8 @@
     </properties>
     <repositories>
         <repository>
-            <id>mysaml</id>
-            <url>https://repo.mysaml.com/</url>
+            <id>mysaml-repo</id>
+            <url>https://repo.mysaml.com/repo/diegofmo0802/</url>
         </repository>
         <repository>
             <id>spigot-repo</id>
